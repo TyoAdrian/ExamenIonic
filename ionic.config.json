@@ -1,0 +1,7 @@
+{
+  "name": "passwordValidation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
